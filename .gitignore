@@ -263,3 +263,7 @@ StarterContent/
 Intermediate/
 Saved/
 Debug/
+
+DynamicSky/Content/__ExternalActors__/ThirdPerson/
+DynamicSky/Content/__ExternalObjects__/ThirdPerson/
+DynamicSky/Content/ThirdPerson/
